@@ -1,5 +1,4 @@
 # sorting algorithm 
 
-# quicksort
-# merge sort
-# quick sort with median 15
+with Quick Sort, Merge Sort and Quick sort with median and cutoff of 15
+
